@@ -1,0 +1,138 @@
+/* https://www.w3schools.com/cssref/css_websafe_fonts.asp */
+/*For index page*/
+.header{
+  height:auto;
+  width: 100%;
+  padding:0;
+  display:inline-block;
+}
+
+.bio{
+  width: 80%;
+  margin-left:auto; 
+  margin-right:auto;
+}
+/* 
+.bioblock{
+  display: inline-block;
+  float: left;
+} */
+.bio img{
+  /* display: inline-block; */
+  float: left;
+  width: 20%;
+  overflow: hidden;
+  margin: 0 20px 0 0;
+  border-radius: 10px;
+}
+.bio p{
+  display: block;
+  text-align: justify;
+  color: darkslategray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+}
+.bio h3{
+  display: block;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+/* .biophoto{ */
+  /* float: left; */
+  /* width:20%; */
+
+/* }/* */
+/* h1{
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color:white;
+  background-color: black;
+  padding: 50px;
+  margin: 0;
+}
+*/
+/* .navbar{
+  list-style-type: none;
+  background-color: rgba(0, 0, 0, 0.274);
+  height:60px;
+  margin: 0;
+  padding:0;
+} */
+
+/* .navbar li{
+  float: left;
+}
+
+.nametag{
+  font-family: Impact, Charcoal, sans-serif;
+  padding:20px 60px 20px 16px;
+  margin:0;
+  color:white;
+  background-color: black;
+  text-align:center;
+  text-decoration:none;
+} */
+
+/* .socialicon{
+  height:30px;
+  width: auto;
+  padding:14px 40px 14px 40px;
+
+}
+
+.headercontainer{
+
+} */
+
+
+/*
+
+.navbar li a{
+  display:inline-block;
+  padding:14px 16px;
+  margin:0;
+  color:white;
+  text-align:center;
+  text-decoration:none;
+}
+
+li a:hover{
+  background-color: black;
+}
+
+p{
+  text-align: justify;
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.mainimage{
+  display:block;
+  max-width:500px;
+  width:70%;
+  height: auto;
+  padding: 12px 0;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+/*For music page*/
+/* .imagecontainer{
+  text-align: center;
+
+}
+.imagerow{
+  display: inline-block;
+  float: center;
+}
+
+.imagerow a img{
+  width:300px;
+  height: auto;
+  padding: 20px;
+} */
